@@ -4,4 +4,4 @@ navbar:
   title: "Kishwar Shafin"
   left:
     - text: "Home"
-      href: "personal_website.html"
+      href: "index.html"
