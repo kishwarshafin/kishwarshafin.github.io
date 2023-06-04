@@ -1,0 +1,7 @@
+name: "kishwar-shafin"
+output_dir: ".:
+navbar:
+  title: "Kishwar Shafin"
+  left:
+    - text: "Home"
+      href: "personal_website.html"
